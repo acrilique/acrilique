@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Acrilique's GitHub stats](https://github-readme-stats-pi-one-59.vercel.app/api?username=acrilique&include_all_commits=true&hide_title=true&hide_border=true)](https://github.com/acrilique/github-readme-stats)
+[![Acrilique's GitHub stats](https://github-readme-stats-pi-one-59.vercel.app/api?username=acrilique&count_private=true&include_all_commits=true&hide_title=true&hide_border=true)](https://github.com/acrilique/github-readme-stats)
 
 [![Acrilique's GitHub Languages](https://github-readme-stats-pi-one-59.vercel.app/api/top-langs?username=acrilique&hide_border=true&layout=compact&langs_count=8)](https://github.com/acrilique/github-readme-stats)
